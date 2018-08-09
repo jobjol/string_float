@@ -1,0 +1,6 @@
+name: 'PHP code test: string to float converter'
+type: module
+description: 'Drupal module that provides a converter to process strings into numbers'
+package: Custom
+core: 8.x
+

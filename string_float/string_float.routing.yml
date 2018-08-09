@@ -1,0 +1,7 @@
+string_float_test:
+  path: 'test'
+  defaults:
+    _form: '\Drupal\string_float\Form\TestForm'
+    _title: 'Test conversion'
+  requirements:
+    _permission: 'access content'
